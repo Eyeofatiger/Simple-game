@@ -1,0 +1,7 @@
+#box{
+    width: 100px;
+    height: 100px;
+    transition: all .3s;
+    position: absolute;
+}
+
